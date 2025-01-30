@@ -42,8 +42,8 @@ export const Information = () => {
     <section className="mb-8">
         <h2 className="text-xl font-semibold text-gray-100 mb-4">Clubs in the New England Region</h2>
         <div className="bg-gray-700 border border-gray-600 rounded-lg shadow p-6">
-            <p className="text-gray-300 mb-4">All clubs welcome all makes and models of cars and have their own small differences, but each offers a great experience and plenty of fun. No matter which club you choose, you're in for a good time!</p>
-            <p className="text-gray-300">So whether you want to open classing of SVT, the tight competition of SCCA, or somewhere in the middle with BMW, Porsche or Renegade</p>
+            <p className="text-gray-300 mb-4">All clubs welcome all makes and models of cars. Each club has their own little differences, but each offers a great experience and plenty of fun. No matter which club you choose, you're in for a good time!</p>
+            <p className="text-gray-300">So whether you want the open classing of SVT, the tight competition of SCCA, or somewhere in the middle with BMW, Porsche or Renegade</p>
         </div>
     </section>
 
